@@ -1,6 +1,6 @@
 assume cs:code,ds:data
 data segment
-string db 'malayyalam','$'
+string db 'malayalam','$'
 pall db 'It is pallindrome','$'
 notpal db 'It is not pallindrome','$'
 data ends
